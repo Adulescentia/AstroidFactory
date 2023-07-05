@@ -47,4 +47,7 @@ class refinery(craftingBuilding):
     price = 1000
     width = 4
     height = 4
-    input = ["water"[1], "ore"[2], "energy"[1]]
+
+
+
+#좆같은 깃
