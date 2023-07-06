@@ -94,3 +94,4 @@ class liquidHydrogen(liquid):
 class liquidOxygen(liquid):
     name = "액화 산소"
     recipe = [oxygen[1],collingWater[1],energy[1]]
+#좆같은 깃
