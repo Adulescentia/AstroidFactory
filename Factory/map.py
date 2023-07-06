@@ -1,1 +1,2 @@
-class map:
+class map: #ㅈㅈㅈ#
+
